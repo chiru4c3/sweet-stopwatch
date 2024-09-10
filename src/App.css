@@ -1,0 +1,21 @@
+.stopwatch {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  font-family: "Arial", sans-serif;
+  font-size: 36px;
+}
+
+p {
+  font-family: "Arial", sans-serif;
+  font-size: 24px;
+}
+
+.buttons button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+}
